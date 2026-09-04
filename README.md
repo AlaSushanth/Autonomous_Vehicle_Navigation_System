@@ -2,6 +2,12 @@
 
 An end-to-end deep learning project that predicts steering angles from camera images to enable autonomous driving in the Udacity self-driving car simulator.
 
+## Demo
+
+The trained models were tested in the Udacity Car Simulator.
+
+![Simulator Demo](simulator_demo.png)
+
 The project explores two approaches:
 
 1. **NVIDIA-style Convolutional Neural Network (CNN)**
